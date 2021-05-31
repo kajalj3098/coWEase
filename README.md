@@ -5,7 +5,7 @@ An application used to view cowin slots available or not, other features are fil
 
 #### note:
 
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
+This project is currently in development.
 
 ## Installation and Setup Instructions
 
